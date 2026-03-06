@@ -1,0 +1,8 @@
+float32 serv1
+float32 serv2
+float32 serv3
+float32 serv4
+float32 serv5
+float32 serv6
+---
+int64 success_code
